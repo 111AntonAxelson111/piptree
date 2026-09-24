@@ -15,7 +15,7 @@ Then execute the powershell script in the working directory of the setup.ps1 and
 
 ## How to use ?
 
-Write "piptree <python package or module>
+Write: "piptree <python package or module>"
 
 for example:
 * piptree math
