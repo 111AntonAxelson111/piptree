@@ -8,3 +8,4 @@ for example:
 * piptree numpy
 * piptree os
 
+!["math example 1"]("images/1   piptree math   .png")
