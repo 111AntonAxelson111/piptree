@@ -1,14 +1,5 @@
 # piptree
 
-## How to use ?
-
-Write "piptree <python package or module>
-
-for example:
-* piptree math
-* piptree numpy
-* piptree os
-
 ## How to setup?
 
 1.
@@ -20,6 +11,16 @@ Do this by download zip file from this repository. Or do this by downloading onl
 2.
 
 Then execute the powershell script in the working directory of the setup.ps1 and piptree.py
+
+
+## How to use ?
+
+Write "piptree <python package or module>
+
+for example:
+* piptree math
+* piptree numpy
+* piptree os
 
 
 ## Example: $ piptree math
